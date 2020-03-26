@@ -1,6 +1,5 @@
-#Autor: Cristiam Martin Jackson
-#Indeks: 302134
-#Script lab 1 EDAMI "Discovering association rules"
+# Autor: Cristiam Martin Jackson
+# "Discovering association rules"
 
 #ORDER OF THE SCRIPT:
 #Discover frequent items
