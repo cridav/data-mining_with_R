@@ -1,4 +1,4 @@
-# Data Mining in R
+# Data Mining with R
 
 <!DOCTYPE html>
 <html lang="en">
